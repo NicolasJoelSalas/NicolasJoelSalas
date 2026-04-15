@@ -5,8 +5,9 @@
 <h1 align="center">Hi 👋, I'm Nicolas Salas</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=00F7FF&size=24&center=true&vCenter=true&lines=Backend+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=00F7FF&size=24&center=true&vCenter=true&lines=Computer+Engineering+Student;Backend+Developer;.NET+Developer;Blazor+Developer" />
 </p>
+
 
 ---
 
@@ -33,9 +34,6 @@
   <img src="https://skillicons.dev/icons?i=dotnet" />
 </p>
 
-- ASP.NET Core  
-- Blazor  
-
 ### 🌐 Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
@@ -43,7 +41,7 @@
 
 ### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=mysql,sql" />
 </p>
 
 ### 🧠 Concepts & Architecture
@@ -55,20 +53,7 @@
 
 ### 🛠️ Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NicolasJoelSalas&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasJoelSalas&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NicolasJoelSalas&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=git,github,arduino" />
 </p>
 
 ---
